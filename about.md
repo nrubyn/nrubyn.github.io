@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hi my name is Ruby Nguyen
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I live in Vancouver for 3 years.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[ruby342@yahoo.com](mailto:ruby342@yahoo.com)
